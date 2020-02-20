@@ -1,0 +1,174 @@
+https://www.ftdichip.com/FTSourceCodeLicenceTerms.htm
+
+IMPORTANT NOTICE: PLEASE READ CAREFULLY BEFORE INSTALLING OR USING THE RELEVANT SOFTWARE:
+
+ 
+
+This licence agreement (Licence) is a legal agreement between you (Licensee or you) and Future Technology Devices International Limited of 2 Seaward Place, Centurion Business Park, Glasgow, Scotland, G41 1HH (UK Company Number SC136640) (Licensor or we) for use of application example software provided by the Licensor (Software).
+
+ 
+
+BY INSTALLING OR USING THIS SOFTWARE YOU AGREE TO THE TERMS OF THIS LICENCE WHICH WILL BIND YOU. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENCE, WE ARE UNWILLING TO LICENSE THE SOFTWARE TO YOU AND YOU MUST DISCONTINUE INSTALLATION AND/OR USE OF THE SOFTWARE NOW.
+
+ 
+
+1. GRANT AND SCOPE OF LICENCE
+
+1.1 In consideration of you agreeing to abide by the terms of this Licence, the Licensor hereby grants to you a non-exclusive, royalty-free licence to use the Software on the terms of this Licence.
+
+1.2 In this Licence a "Genuine FTDI Component" means an item of hardware that was manufactured for, and sold by, the Licensor or a member of the Licensor's group of companies. It does not include any counterfeit or fake products.
+
+1.3 You may use the Software for internal development and testing purposes and you may incorporate the software into an application you are developing/maintaining (“Your Application”). You may distribute an object code version of the Software (or software derived from the Software) with and/or as part of Your Application and grant sub-licences to use that object code to users of Your Application.
+
+1.4 You may also distribute source code versions of the Software, and source code based on the Software (but with your additions/adaptations) (“Customer Adapted Software”). However, if you do you then (in each case) you
+
+1.4.1 must not delete or alter any copyright notice, disclaimer and/or legal text that is currently in the source code of the Software; but
+
+1.4.2 you may add additional disclaimers and/or legal text in relation to your additions/adaptations.
+
+1.5 You may only use the Software in conjunction with products based on and/or incorporating a Genuine FTDI Component.
+
+1.6 The Software must not be used in, or for, any medical appliance, device or system in which the failure of the Software might reasonably be expected to result in personal injury.
+
+ 
+
+2. LICENSEE'S UNDERTAKINGS
+
+2.1 Except as expressly set out in this Licence or as permitted by any local law, you undertake:
+
+          2.1.1 to keep all source code copies of the Software in your possession or control confidential and secure; and
+
+          2.1.1 to include the copyright notice and legal disclaimers of the Licensor on all entire and partial copies of the Software in any form.
+
+ 
+3. INTELLECTUAL PROPERTY RIGHTS
+
+3.1 You acknowledge that all intellectual property rights in the Software throughout the world belong to the Licensor, that rights in the Software are licensed (not sold) to you, and that you have no rights in, or to, the Software other than the right to use them in accordance with the terms of this Licence.
+
+ 
+
+4. WARRANTY
+
+4.1 To the maximum extent permitted by applicable law, the software is provided "as is".
+
+4.2 All implied warranties, implied conditions and/or implied licences are excluded from this Licence, including but not limited to implied warranties of quality and/or fitness for purpose (in all cases) to the fullest extent permitted by law.
+
+4.3 You acknowledge that the Software has not been developed to meet your individual requirements and that the Software may not be uninterrupted or free of bugs or errors.
+
+4.4 You will indemnify us against any loss, liability and/or expense suffered or incurred by Licensor (or any related entity) to the extent arising from a claims from a licensor or end-user (in each case) in relation to Your Application and/or the Software and/or software derived from the Software.
+
+ 
+
+5. LICENSOR'S LIABILITY
+
+5.1 To the maximum extent permitted by applicable law, in no event shall the Licensor be liable for any:
+
+          5.1.1 special loss or damage;
+
+          5.1.2 incidental loss or damage;
+
+          5.1.3 indirect or consequential loss or damage:
+
+          5.1.4 loss of income;
+
+          5.1.5 loss of business;
+
+          5.1.6 loss of profits;
+
+          5.1.7 loss of revenue;
+
+          5.1.8 loss of contracts;
+
+          5.1.9 business interruption;
+
+          5.1.10 loss of the use of money or anticipated savings;
+
+          5.1.11 loss of information;
+
+          5.1.12 loss of opportunity;
+
+          5.1.13 loss of goodwill or reputation; and/or
+
+          5.1.14 loss of, damage to or corruption of data; (in each case) of any kind howsoever arising and whether caused by delict (including negligence), breach of contract or otherwise.
+
+5.2 FTDI's total liability to You in relation to the Software shall not exceed 500 US Dollars.
+
+5.3 Nothing in this Licence limits or excludes liability for death or personal injury or for fraud.
+
+ 
+
+6. TERMINATION
+
+6.1 The Licensor may terminate this Licence immediately if:
+
+          6.1.1 you fail to comply with any of the terms and conditions of the Licence; or
+
+          6.1.2 you commence or participate in any legal proceedings against the Licensor.
+
+6.2 Upon termination:
+
+          6.2.1 all rights granted to you under this Licence shall cease;
+
+          6.2.2 you must cease all activities authorised by this Licence; and
+
+          6.2.3 you must immediately delete or remove the Software from all computer equipment in your possession and immediately destroy all copies of the Software then in your possession, custody or control.
+
+ 
+
+7. TRANSFER OF RIGHTS AND OBLIGATIONS
+
+7.1 You may not transfer, assign, charge or otherwise dispose of this Licence, or any of your rights or obligations arising under it.
+
+7.2 The Licensor may transfer, assign, charge, sub-contract or otherwise dispose of this Licence, or any of his rights or obligations arising under it, at any time during the term of the Licence.
+
+ 
+
+8. WAIVER
+
+8.1 If the Licensor fails, at any time during the term of this Licence, to insist on strict performance of any of your obligations under this Licence, or if the Licensor fails to exercise any of the rights or remedies to which he is entitled under this Licence, this shall not constitute a waiver of such rights or remedies and shall not relieve you from compliance with such obligations.
+
+8.2 A waiver by the Licensor of any default shall not constitute a waiver of any subsequent default.
+
+8.3 No waiver by the Licensor of any of these terms and conditions shall be effective unless it is expressly stated to be a waiver and is communicated to you in writing.
+
+ 
+
+9. SEVERABILITY
+
+If any of the terms of this Licence are determined by any competent authority to be invalid, unlawful or unenforceable to any extent, such term, condition or provision will to that extent be severed from the remaining terms, conditions and provisions which will continue to be valid to the fullest extent permitted by law.
+
+ 
+
+10. ENTIRE AGREEMENT
+
+10.1 This Licence constitutes the whole agreement between us and supersedes any previous arrangement, understanding or agreement between us, relating to the licensing of the Software.
+
+10.2 Each party acknowledges that in entering into this Licence it does not rely on any statement, representation, warranty or understanding other than those expressly set out in this Licence. Each party agrees that it will have no remedy in respect of any statement, representation, warranty or understanding that is not expressly set out in this Licence. Each party agrees that its only remedy in respect of those representations, statements, assurances and warranties that are set out in this Licence will be for breach of contract in accordance with the terms of this Licence.
+
+10.3 The parties agree that nothing in this Licence will limit or exclude any liability they may have for fraud.
+
+ 
+
+11. MISCELLANEOUS
+
+11.1 This Licence does not create a partnership or joint venture between the parties to it, nor authorise a party to act as agent for the other.
+
+11.2 This Licence does not create any legal rights enforceable by any third party.
+
+11.3 This Licence may only be varied by express written legal agreement between the parties.
+
+ 
+
+12. LAW AND JURISDICTION
+
+This Licence, its subject matter or its formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with Scots law and submitted to the non-exclusive jurisdiction of the Scottish courts.
+
+ 
+
+ 
+
+
+
+ 
+
+© Future Technology Devices International Ltd. 2015
