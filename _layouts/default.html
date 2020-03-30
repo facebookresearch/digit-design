@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ site.title | default: site.github.repository_name }} {% if page.title %} | {{ page.title }}{% endif %}</title>
+    <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="shortcut icon" href="favicon.png" type="image/png" />
+	{% seo %}
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+	  <a href="https://ieeexplore.ieee.org/document/9018215" class="btn">Paper</a>
+      <a href="https://github.com/facebookresearch/digit-interface" class="btn">Python Interface</a>
+      <a href="https://github.com/facebookresearch/digit-design" class="btn">Design Files</a>
+
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+
+      <footer class="site-footer">
+        <center>Copyright © 2020 Facebook, Inc.</center>
+      </footer>
+    </section>
+
+  </body>
+</html>

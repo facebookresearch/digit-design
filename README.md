@@ -1,12 +1,15 @@
-# DIGIT-DESIGN
+# digit.ml
 
-Manufacturing design files for Digit
+### Run website locally
+Follow instructions at
+https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll
 
-## Usage
+sudo apt-get install build-essential patch ruby-dev zlib1g-dev liblzma-dev
+sudo apt-get install ruby-full
+sudo gem update --system
+sudo gem install bundler
+sudo bundle update --bundler
 
-This repository contains the documentation and manufacturing files for the plastics enclosure, gel and electronics.
-
-Additionally, the DIGIT firmware binary is released for programming.
-
-## License
-These design files are licensed under CC-by-NC, as found in the LICENSE file.
+`
+bundle exec jekyll serve --port 8000
+`

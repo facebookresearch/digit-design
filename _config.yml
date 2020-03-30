@@ -1,0 +1,21 @@
+email: rcalandra@fb.com
+author: Roberto Calandra
+baseurl: ""
+url: "http://www.digit.ml"
+
+theme: jekyll-theme-cayman
+
+# Google services
+google_analytics: 
+google_verification:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+kramdown:
+  auto_ids:       true
+  
+plugins_dir:
+  - jekyll-seo-tag
+  - jekyll-sitemap
