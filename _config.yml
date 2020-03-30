@@ -2,6 +2,7 @@ email: rcalandra@fb.com
 author: Roberto Calandra
 baseurl: ""
 url: "http://www.digit.ml"
+title: DIGIT
 
 theme: jekyll-theme-cayman
 
