@@ -25,5 +25,9 @@ If you like our work, please consider citing us:
   title   = {{DIGIT}: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor with Application to In-Hand Manipulation},
   journal = {IEEE Robotics and Automation Letters (RA-L)},
   year    = {2020},
+  volume  = {5},
+  number  = {3},
+  pages   = {3838--3845},
   doi     = {10.1109/LRA.2020.2977257},
 }
+```
