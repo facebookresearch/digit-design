@@ -5,7 +5,7 @@
 <img height="20" src="/docs/digit-logo.svg" alt="DIGIT-logo" />
 </a>
 
-<img height="200" src="/docs/digit-render.png" alt="DIGIT-render" />
+<img height="300" src="/docs/digit-render.png" alt="DIGIT-render" class="center"/>
 
 Manufacturing design files for the [DIGIT tactile sensor](https://digit.ml).
 
