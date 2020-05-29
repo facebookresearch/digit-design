@@ -5,7 +5,10 @@
 <img height="20" src="/docs/digit-logo.svg" alt="DIGIT-logo" />
 </a>
 
+<img height="200" src="/docs/digit-render.png" alt="DIGIT-render" />
+
 Manufacturing design files for the [DIGIT tactile sensor](https://digit.ml).
+
 
 ## Usage
 
@@ -14,10 +17,10 @@ This repository contains the documentation and manufacturing files for the plast
 Additionally, the DIGIT firmware binary is released for programming.
 
 ## License
-These design files are licensed under CC-by-NC, as found in the LICENSE file.
+These design files are licensed under CC-by-NC, as found in the [LICENSE](LICENSE) file.
 
 ## Citing
-If you like our work, please consider citing us:
+If you like this project, please consider citing us:
 
 ```BibTeX
 @Article{Lambeta2020DIGIT,
