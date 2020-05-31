@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="shortcut icon" href="favicon-196.png" type="image/png" />
 	{% seo %}
+    {% include analytics.html %}
   </head>
   <body>
     <section class="page-header">
@@ -18,7 +19,7 @@
       <img src="digit-logo-black.svg" width="400" />
 <br><br>
       <!--<h2 class="project-tagline">{{ page.description | default: site.description }}</h2>-->
-	  <a href="https://arxiv.org/abs/" class="btn">Paper [ArXiv]</a>
+	  <!--<a href="https://arxiv.org/abs/" class="btn">Paper [ArXiv]</a>-->
 	  <a href="https://ieeexplore.ieee.org/document/9018215" class="btn">Paper [IEEExplore]</a>
       <a href="https://github.com/facebookresearch/digit-interface" class="btn">Python Interface</a>
       <a href="https://github.com/facebookresearch/digit-design" class="btn">Design Files</a>
