@@ -5,4 +5,5 @@
 ### Added
 
 - Added digit-programmer utility
+- Added quick start guide for DIGIT manufacturing and assembly
 
