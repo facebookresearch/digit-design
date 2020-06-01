@@ -6,4 +6,5 @@
 
 - Added digit-programmer utility
 - Added quick start guide for DIGIT manufacturing and assembly
-
+- Added adaptors for DIGIT sensor
+- 
