@@ -16,6 +16,10 @@ This repository contains the documentation and manufacturing files for the plast
 
 Additionally, the DIGIT firmware binary is released for programming.
 
+## Quick Start
+
+Manufacturing and assembly documentation is found in the [Quick Start Guide](DIGIT_Quick_Start_Guide_v1.pdf)
+
 ## License
 These design files are licensed under CC-by-NC, as found in the [LICENSE](LICENSE) file.
 
