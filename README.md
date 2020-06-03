@@ -10,21 +10,24 @@
 Manufacturing design files for the [DIGIT tactile sensor](https://digit.ml).
 
 
-## Usage
+## Content
 
-This repository contains the documentation and manufacturing files for the plastics enclosure, gel and electronics.
-
-Additionally, the DIGIT firmware binary is released for programming.
+This repository contains the documentation and manufacturing files for the plastics enclosure, elastomer, electronics and the firmware binary.
 
 ## Quick Start
 
-Manufacturing and assembly documentation is found in the [Quick Start Guide](DIGIT_Quick_Start_Guide_v1.pdf)
+Manufacturing and assembly documentation is found in the [Quick Start Guide](DIGIT_Quick_Start_Guide.pdf)
+
+## Questions and Contributing
+
+If you have questions or need help with the content of this repo please open a ticket.
+We welcome useful contributions to the repo -- if you want to contribure please read [how to contribute](CONTRIBUTING).
 
 ## License
 These design files are licensed under CC-by-NC, as found in the [LICENSE](LICENSE) file.
 
 ## Citing
-If you like this project, please consider citing us:
+If you use this project in your research, please consider citing this [paper](https://arxiv.org/abs/2005.14679):
 
 ```BibTeX
 @Article{Lambeta2020DIGIT,
