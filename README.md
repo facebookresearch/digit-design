@@ -21,7 +21,7 @@ Manufacturing and assembly documentation is found in the [Quick Start Guide](DIG
 ## Questions and Contributing
 
 If you have questions or need help with the content of this repo please open a ticket.
-We welcome useful contributions to the repo -- if you want to contribure please read [how to contribute](CONTRIBUTING).
+We welcome useful contributions to the repo -- if you want to contribure please read [how to contribute](CONTRIBUTING.md).
 
 ## License
 These design files are licensed under CC-by-NC, as found in the [LICENSE](LICENSE) file.
