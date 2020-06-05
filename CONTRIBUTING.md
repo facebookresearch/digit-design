@@ -1,5 +1,5 @@
 # Contributing to digit-design
-We welcome contributions from othe community, and want to make contributing to this project as easy and transparent as possible.
+We welcome contributions from the community, and want to make contributing to this project as easy and transparent as possible.
 
 ## Pull Requests
 We actively welcome your pull requests.
