@@ -2,7 +2,9 @@
 
 ## 2020-06-06
 
+- Added fabrication release with BOM, GerberX2, XY files and assembly info for fabrication houses
 - Added SMT XY files for Pick and Place
+- Updated Gerbers to GerberX2, fixed 2020-1 pick and place assembly DIGIT gerbers
 - Updated descriptions in BOM, does not affect design.
 - Improved digit-programmer README
 
