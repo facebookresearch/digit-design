@@ -7,8 +7,8 @@ This utility allows for downgrading or upgrading firmware, as well assigning a d
 ## Installation
 Clone the repository and install the package using:
 
-	git clone https://github.com/fairinternal/digit-internal.git
-	cd digit-internal/digit-programmer
+	git clone https://github.com/facebookresearch/digit-design.git
+	cd digit-design/firmware/digit-programmer
 	pip install -r requirements.txt
 
 This tool also requires ```dfu-util```, install with:

@@ -1,0 +1,7 @@
+Units used: mil
+
+Designator Comment             Layer       Footprint           Center-X(mil) Center-Y(mil) Rotation Description 
+P1         DF37B-16DP-0.4V(53) BottomLayer DF37B-16DP-0.4V(53) 98.425        499.016       360      ""           
+D3         ARGB1313HS          TopLayer    ARGB1313HS          1437.008      1160.442      180      ARGB1313HS  
+D2         ARGB1313HS          TopLayer    ARGB1313HS          98.425        1160.433      360      ARGB1313HS  
+D1         ARGB1313HS          TopLayer    ARGB1313HS          -1240.158     1160.433      180      ARGB1313HS  
