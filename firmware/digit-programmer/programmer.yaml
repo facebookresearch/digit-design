@@ -1,6 +1,6 @@
 digit:
   serial: 0
-  firmware: "../digit-2020-1a.bin"
+  firmware: "../digit-2020-1b.bin"
 usb:
   # DIGIT V1 USB Identifier
   idVendor: 0x2833
