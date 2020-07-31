@@ -49,7 +49,7 @@ def reset_device(usb_dev):
 
 def program_digit():
     cwd = os.path.dirname(os.path.realpath(__file__))
-    dfu_util_args = [DFU_UTIL_CMD, "-D", DFU_TMP_BIN]
+    dfu_util_args = [DFU_UTIL_CMD, "-vRD", DFU_TMP_BIN]
     subprocess.run(dfu_util_args, cwd=cwd)
 
 
