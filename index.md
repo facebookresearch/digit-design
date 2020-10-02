@@ -16,13 +16,17 @@ weight: -1
 DIGIT is an easy-to-build, reliable, low-cost, compact, high-resolution, tactile sensor designed for robotic in-hand manipulation.
 
 
-<!--
+
 ### On what robots can DIGIT be mounted?
 
-DIGIT is designed to be natively compatible with [Wonik's Allegro Hand](http://wiki.wonikrobotics.com/AllegroHandWiki/index.php/Allegro_Hand) 
+DIGIT is designed to be natively compatible with the [Wonik's Allegro Hand](http://wiki.wonikrobotics.com/AllegroHandWiki/index.php/Allegro_Hand).
+In addition, we [provide files](https://github.com/facebookresearch/digit-design/tree/master/adaptors) for 3d-printable adaptors for mounting DIGIT on several common robotic platforms.
 
-In addition, we open source the mechanical files for 3d-printing adaptors for mounting DIGIT on several other robotic platforms:
-- [Sawyer gripper]()
-- []()
+<p align="middle">
+  <img src="/assets/adaptor-allegro.png" width="19%" />
+  <img src="/assets/adaptor-interbotix.png" width="19%" />
+  <img src="/assets/adaptor-robotiq-3-finger.png" width="19%" />
+  <img src="/assets/adaptor-robotiq-2f85.png" width="19%" /> 
+  <img src="/assets/adaptor-schunk.png" width="19%" />
+</p>
 
--->
