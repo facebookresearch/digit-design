@@ -1,5 +1,10 @@
 # Changelog
 
+## 2020-10-19
+
+- Added assembly view information for DIGIT main and lighting flex PCB
+- Added adhesive outline for light flex PCB directly into mechanical layer 2 reflected in gerber files
+
 ## 2020-07-30
 
 - Updated DIGIT firmware from 1a to 1b, fixed dfu-util programming issue
