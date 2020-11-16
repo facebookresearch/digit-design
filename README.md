@@ -9,6 +9,8 @@
 
 Manufacturing design files for the [DIGIT tactile sensor](https://digit.ml).
 
+**For updates and discussions please join the #DIGIT channel at the [www.touch-sensing.org](https://www.touch-sensing.org/) community.**
+
 ## Content
 
 This repository contains the documentation and manufacturing files for the plastics enclosure, elastomer, electronics and the firmware binary.
