@@ -30,3 +30,6 @@ In addition, we [provide files](https://github.com/facebookresearch/digit-design
   <img src="/assets/adaptor-schunk.png" width="19%" />
 </p>
 
+### Is there a simulator for DIGIT? 
+
+Yes! We released a simulator for DIGIT at [https://github.com/facebookresearch/tacto](https://github.com/facebookresearch/tacto).
