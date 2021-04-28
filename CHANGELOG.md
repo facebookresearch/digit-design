@@ -1,5 +1,9 @@
 # Changelog
 
+## 2021-04-27
+
+- Released beta firmware (2.00) to support individual RGB control of LED's
+
 ## 2020-07-30
 
 - Updated DIGIT firmware from 1a to 1b, fixed dfu-util programming issue
