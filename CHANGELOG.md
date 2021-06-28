@@ -1,5 +1,10 @@
 # Changelog
 
+## 2021-06-28
+
+- Release revision 2021-2 for Digit Flex
+    - Changed LED (D1-D5) part number to 19-337C/RSBHGHC-A88/4T
+
 ## 2021-04-27
 
 - Released beta firmware (2.00) to support individual RGB control of LED's

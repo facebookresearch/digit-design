@@ -15,6 +15,15 @@ Manufacturing design files for the [DIGIT tactile sensor](https://digit.ml).
 
 This repository contains the documentation and manufacturing files for the plastics enclosure, elastomer, electronics and the firmware binary.
 
+## Design Notes
+
+Due to some parts being out of stock due to shortages, we recommend the following part substituions:
+
+* Digit Main PCB, Camera, OVM7692-RAAA with OVM7692-RYAA
+* Digit Main PCB, MCU, FT900-R with FT900Q-C-T
+* Digit Flex PCB, LEDs, ARGB1313HS-TR with 19-337C/RSBHGHC-A88/4T
+    * Note: this change is only compatible with Digit Flex rev. 2021-2
+
 ## Quick Start
 
 Manufacturing and assembly documentation is found in the [Quick Start Guide](DIGIT_Quick_Start_Guide.pdf)

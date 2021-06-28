@@ -1,0 +1,7 @@
+Units used: mil
+
+Designator Comment                Layer       Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                               
+P1         DF37B-16DP             BottomLayer DF37B-16DP-0.4V(53)        98.425        499.016       0        ""                                                                                                                                        
+D3         19-337C/RSBHGHC-A88/4T TopLayer    LED_19-337C/RSBHGHC-A88/4T 1437.008      1172.253      90       "Red, Green, Blue (RGB) 625nm Red, 530nm Green, 470nm Blue LED Indication - Discrete 2.05V Red, 2.9V Green, 2.9V Blue 0606 (1616 Metric)" 
+D2         19-337C/RSBHGHC-A88/4T TopLayer    LED_19-337C/RSBHGHC-A88/4T 98.425        1172.244      270      "Red, Green, Blue (RGB) 625nm Red, 530nm Green, 470nm Blue LED Indication - Discrete 2.05V Red, 2.9V Green, 2.9V Blue 0606 (1616 Metric)" 
+D1         19-337C/RSBHGHC-A88/4T TopLayer    LED_19-337C/RSBHGHC-A88/4T -1240.158     1172.244      90       "Red, Green, Blue (RGB) 625nm Red, 530nm Green, 470nm Blue LED Indication - Discrete 2.05V Red, 2.9V Green, 2.9V Blue 0606 (1616 Metric)" 
