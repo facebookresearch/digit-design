@@ -1,5 +1,9 @@
 # Changelog
 
+## 2021-08-12
+
+- Updated mechanical revision to address rasied issues
+
 ## 2021-06-28
 
 - Release revision 2021-2 for Digit Flex
