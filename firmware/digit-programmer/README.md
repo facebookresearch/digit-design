@@ -22,7 +22,7 @@ Add your user to the ```plugdev``` group,
 
 Copy udev rule,
 
-    sudo cp ./udev/50-DIGIT-*.rules /lib/udev/rules.d/
+    sudo cp ./udev/50-DIGIT*.rules /lib/udev/rules.d/
 
 Reload rules,
 
