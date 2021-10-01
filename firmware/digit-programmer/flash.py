@@ -19,8 +19,8 @@ logging.basicConfig(level=logging.DEBUG)
 
 
 def format_serial(serial):
-    if len(serial) > DIGIT_SERIAL_ID_LENGTH:
-        _log.error("Serial must be between 0 and 5 characters long.")
+    if not serial.isdigit() or len(serial) > DIGIT_SERIAL_ID_LENGTH:
+        _log.error("Serial must be between 1 and 5 characters long.")
         sys.exit(1)
     serial = "D{}".format(serial.rjust(DIGIT_SERIAL_ID_LENGTH, "0"))
     serial = serial.encode("utf-16le")
