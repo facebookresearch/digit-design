@@ -19,6 +19,9 @@ logging.basicConfig(level=logging.DEBUG)
 
 
 def format_serial(serial):
+    if not serial.isdigit() or len(serial) > DIGIT_SERIAL_ID_LENGTH:
+        _log.error("Serial must be between 1 and 5 characters long.")
+        sys.exit(1)
     serial = "D{}".format(serial.rjust(DIGIT_SERIAL_ID_LENGTH, "0"))
     serial = serial.encode("utf-16le")
     return serial
@@ -57,8 +60,7 @@ def main():
     cli_conf = OmegaConf.from_cli()
     base_conf = OmegaConf.load("programmer.yaml")
     conf = OmegaConf.merge(base_conf, cli_conf)
-    print("DIGIT programmer config:")
-    print(conf.pretty())
+    _log.info(f"DIGIT programmer config: {conf}")
 
     full_serial = format_serial(str(conf.digit.serial))
     set_serial(conf.digit.firmware, full_serial)
