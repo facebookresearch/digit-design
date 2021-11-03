@@ -6,16 +6,27 @@ permalink: /index.html
 weight: -1
 ---
 
+
 <p align="center">
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/F73kkqiHGwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <img src="assets/digit.gif" />
 </p>
 
 
 ### What is DIGIT?
 
 DIGIT is an easy-to-build, reliable, low-cost, compact, high-resolution, tactile sensor designed for robotic in-hand manipulation.
+The [sensor is open-source](https://github.com/facebookresearch/digit-design) so that everyone can build one.
+More information about DIGIT can be found in [our paper](https://arxiv.org/abs/2005.14679) or by playing the video below.
 
+<p align="center">
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/F73kkqiHGwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
+### Can I buy a DIGIT?
+
+We understand that for many people might be difficult and time-consuming to manifacture a sensor themself.
+For this reason, we have partnered with [GelSight Inc.](https://gelsight.com/) to commercialize DIGIT.
+Fully assembled sensors can be easily bought from their [online store](https://gelsight.com/product/digit-tactile-sensor/).
 
 ### On what robots can DIGIT be mounted?
 
