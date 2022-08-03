@@ -2,7 +2,7 @@
 title: "Call For Proposals"
 description: "Meta AI Research DIGIT Program"
 
-permalink: /CFP.html
+permalink: /cfp.html
 weight: -1
 ---
 
