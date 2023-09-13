@@ -25,7 +25,7 @@ It is our hope that the DIGIT platform will focus attention on the importance of
 
 ## Submission Form:
 
-To submit your application fill the form available here: https://forms.gle/WeCM7YytHnT1QBEe7
+To submit your application fill the form available [https://forms.gle/WeCM7YytHnT1QBEe7](Here).
 
 ## Restrictions:
 Residents of the following countries are not allowed to participate: Cuba, Syria, Iran, Russia, Crimea (region of Ukraine), Donetsk (region of Ukraine), Luhansk (region of Ukraine), Belarus, Iraq, Sudan and North Korea.
