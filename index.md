@@ -6,6 +6,11 @@ permalink: /index.html
 weight: -1
 ---
 
+<p align="center">
+***
+September 2023: We are happy to announce a DIGIT Call for Proposal, more information at [https://digit.ml/cfp](https://digit.ml/cfp)
+***
+</p>
 
 <p align="center">
   <img src="assets/digit.gif" />
