@@ -29,3 +29,4 @@ To submit your application fill the form available [Here](https://forms.gle/WeCM
 
 ## Restrictions:
 Residents of the following countries are not allowed to participate: Cuba, Syria, Iran, Russia, Crimea (region of Ukraine), Donetsk (region of Ukraine), Luhansk (region of Ukraine), Belarus, Iraq, Sudan and North Korea.
+Terms and conditions are available at [https://github.com/facebookresearch/digit-design/blob/gh-pages/terms.txt](https://github.com/facebookresearch/digit-design/blob/gh-pages/terms.txt)
