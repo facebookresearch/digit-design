@@ -6,7 +6,7 @@ permalink: /index.html
 weight: -1
 ---
 
-<p  style="font-size:18px; color:#FF0000; font-weight:bold"; align="center";>
+<p  align="center"; >
 September 2023: We are happy to announce a DIGIT Call for Proposal, more information at 
 <a href="https://digit.ml/cfp">https://digit.ml/cfp</a>
 </p>
@@ -25,6 +25,14 @@ More information about DIGIT can be found in [our paper](https://arxiv.org/abs/2
 <p align="center">
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/F73kkqiHGwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+### What does DIGIT Sense?
+
+<p align="center">
+  <img src="assets/digit-output.png" />
+</p>
+
+DIGIT senses the geometry of the object in contact, in the form of images. From these images, it is possible to estimate normal forces and, when used in conjunction with markers, shear forces. 
 
 ### How do I use DIGIT?
 
