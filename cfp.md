@@ -19,8 +19,8 @@ Proposals will be evaluated based on their scientific merit and potential impact
 It is our hope that the DIGIT platform will focus attention on the importance of touch as a sensing modality (similarly to computer vision and speech recognition) and foster the development of new touch-based robotics systems, tools and applications in a spirit of scientific collaboration and open-source community.
 
 ## Important Dates:
-- Proposals Due: **15 October 2023**
-- Notification deadline: **30 October 2023**
+- Proposals Due: **15 January 2024**
+- Notification deadline: **30 January 2023**
 - Delivery of the sensors: **To be confirmed upon acceptance**
 
 ## Submission Form:
