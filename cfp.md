@@ -20,7 +20,7 @@ It is our hope that the DIGIT platform will focus attention on the importance of
 
 ## Important Dates:
 - Proposals Due: **15 January 2024**
-- Notification deadline: **30 January 2023**
+- Notification deadline: **30 January 2024**
 - Delivery of the sensors: **To be confirmed upon acceptance**
 
 ## Submission Form:
