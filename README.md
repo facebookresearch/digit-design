@@ -2,10 +2,10 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
 <a href="https://digit.ml/">
-<img height="20" src="/docs/digit-logo.svg" alt="DIGIT-logo" />
+<img height="20" src="DIGIT/docs/digit-logo.svg" alt="DIGIT-logo" />
 </a>
 
-<img height="300" src="/docs/digit-render.png" alt="DIGIT-render" class="center"/>
+<img height="300" src="DIGIT/docs/digit-render.png" alt="DIGIT-render" class="center"/>
 
 Manufacturing design files for the [DIGIT tactile sensor](https://digit.ml).
 
@@ -13,7 +13,7 @@ Manufacturing design files for the [DIGIT tactile sensor](https://digit.ml).
 
 ## Content
 
-This repository contains the documentation and manufacturing files for the plastics enclosure, elastomer, electronics and the firmware binary.
+[This repository](DIGIT) contains the documentation and manufacturing files for the plastics enclosure, elastomer, electronics and the firmware binary.
 
 ## Design Notes
 
@@ -26,14 +26,14 @@ Due to some parts being out of stock due to shortages, we recommend the followin
 
 ## Quick Start
 
-Manufacturing and assembly documentation is found in the [Quick Start Guide](DIGIT_Quick_Start_Guide.pdf)
+Manufacturing and assembly documentation is found in the [Quick Start Guide](/DIGIT/DIGIT_Quick_Start_Guide.pdf)
 
-The manufacturing files are released in [releases](releases) for PCBA fabrication.
+The manufacturing files are released in [releases](/DIGIT/releases) for PCBA fabrication.
 
 ## Questions and Contributing
 
 If you have questions or need help with the content of this repo please open a ticket.
-We welcome useful contributions to the repo -- if you want to contribure please read [how to contribute](CONTRIBUTING.md).
+We welcome useful contributions to the repo -- if you want to contribute please read [how to contribute](CONTRIBUTING.md).
 
 ## License
 These design files are licensed under CC-by-NC, as found in the [LICENSE](LICENSE) file.
@@ -53,3 +53,26 @@ If you use this project in your research, please cite this [paper](https://arxiv
   doi     = {10.1109/LRA.2020.2977257},
 }
 ```
+# DIGIT-PINKI-DESIGN
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
+
+## Content
+
+[This repository](DIGIT_Pinki) contains the documentation and manufacturing files for the plastics enclosure, elastomer, and assembly.
+
+## Quick Start
+
+Manufacturing and assembly documentation is found in the [Quick Start Guide](DIGIT_Pinki/DIGIT_Pinki_Quick_Start_Guide.pdf)
+
+## Questions and Contributing
+
+If you have questions or need help with the content of this repo please open a ticket.
+We welcome useful contributions to the repo -- if you want to contribute please read [how to contribute](CONTRIBUTING.md).
+
+## License
+These design files are licensed under CC-by-NC, as found in the [LICENSE](LICENSE) file.
+
+## Citing
+If you use this project in your research, please cite this [paper](https://arxiv.org/abs/2403.05500).
+
