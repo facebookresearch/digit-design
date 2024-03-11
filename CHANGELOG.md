@@ -1,5 +1,9 @@
 # Changelog
 
+## 2024-03-10
+- Added DIGIT Pinki manufacturing and assembly
+- Refactored folder structure
+
 ## 2021-08-12
 
 - Updated mechanical revision to address rasied issues
