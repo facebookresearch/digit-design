@@ -6,9 +6,9 @@ permalink: /cfp.html
 weight: -1
 ---
 
-[Meta AI Research](https://ai.facebook.com/), in partnership with [GelSight Inc.](https://www.gelsight.com/), invites proposals from universities and research organizations interested in using the [high-resolution tactile sensor DIGIT](https://digit.ml/) to accelerate research, drive open source development, and contribute to the open source community. **28 fully assembled DIGIT will be made available to researchers** that will make rigorous and creative use of the sensor in existing or planned research projects.
+[AI Research at Meta](https://ai.facebook.com/), in partnership with [GelSight Inc.](https://www.gelsight.com/), invites proposals from universities and research organizations interested in using the [high-resolution tactile sensor DIGIT](https://digit.ml/) to accelerate research, drive open source development, and contribute to the open source community. **28 fully assembled DIGIT will be made available to researchers** that will make rigorous and creative use of the sensor in existing or planned research projects.
 
-By making the DIGIT available to the scientific community, Meta AI aims at the following objectives:
+By making the DIGIT available to the scientific community, AI at Meta aims at the following objectives:
 - Provide a low-cost yet reliable and easily available hardware platform for touch sensing
 - Enable scientific breakthroughs in real-world applications (e.g., robotics)
 - Encourage research in touch as a sensor modality, and tactile sensors
